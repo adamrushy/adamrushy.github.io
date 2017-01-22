@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>MJO Garden Services - Leeds, Rothwell</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -127,6 +127,8 @@
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>	
+			<li data-target="#myCarousel" data-slide-to="4"></li>			
         </ol>
 
         <!-- Wrapper for slides -->
@@ -138,13 +140,25 @@
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('images/landscape-2.jpg');"></div>
+                <div class="fill" style="background-image:url('images/landscape-5.jpg');"></div>
                 <div class="carousel-caption">
                     <!-- <h2>Caption 2</h2> -->
                 </div>
             </div>
             <div class="item">
                 <div class="fill" style="background-image:url('images/landscape-3.jpg');"></div>
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 3</h2> -->
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('images/landscape-6.jpg');"></div>
+                <div class="carousel-caption">
+                    <!-- <h2>Caption 3</h2> -->
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('images/landscape-7.jpg');"></div>
                 <div class="carousel-caption">
                     <!-- <h2>Caption 3</h2> -->
                 </div>
@@ -170,7 +184,7 @@
                     Welcome to MJO Landscaping & Gardening Services
                 </h1>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>TURFING</h4>
@@ -183,7 +197,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>DECKING</h4>
@@ -196,7 +210,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>FENCING</h4>
@@ -205,6 +219,17 @@
                         <p>At MJO our fencing contractors pride ourselves on constructing your new fencing to the highest possible standards.</p>
 
 <p>With such a variety of fencing styles available we are able to advise and assist you in choosing the right style for your particular garden. We also specialise in the installation of the increasingly popular eco natural fencing panels.</p>
+                        <!-- <a href="#" class="btn btn-default">Learn More</a> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4>PAVING</h4>
+                    </div>
+                    <div class="panel-body">
+<p>We use a huge range of materials for our customers’ patios in Yorkshire, from block paving to granite and natural stone paving slabs, but we only select products from the leading suppliers. We install natural stone paving and garden patios using products from all the leading suppliers. We offer a free consultation, quotation and design service for all types of installation of patios, large and small.</p>
                         <!-- <a href="#" class="btn btn-default">Learn More</a> -->
                     </div>
                 </div>
@@ -219,22 +244,12 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="images/portfolio/ian-1.jpg" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="images/landscape-7.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="images/portfolio/decking-1.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="images/portfolio/decking-2.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="images/portfolio/turfing-1.jpg" alt="">
+                <a href="portfolio-item2.html">
+                    <img class="img-responsive img-portfolio img-hover" src="images/landscape-8.jpg" alt="">
                 </a>
             </div>
         </div>
